@@ -6,7 +6,7 @@
 
 ### cmd1
 
-![cmd1](C:\Users\Th\Desktop\Pictures\cmd1.png)
+![cmd1](https://raw.githubusercontent.com/Thsde/service/master/%E4%BD%9C%E4%B8%9A1/screen_shoots/cmd1.png)
 
 ### cmd2
 
